@@ -264,7 +264,7 @@
         <dependency>
             <groupId>com.github.database-rider</groupId>
             <artifactId>rider-junit5</artifactId>
-            <version>1.5.1</version> <!-- Mettez à jour la version si nécessaire -->
+            <version>1.5.1</version>
             <scope>test</scope>
         </dependency>
 

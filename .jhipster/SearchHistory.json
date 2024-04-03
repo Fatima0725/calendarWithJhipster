@@ -1,0 +1,21 @@
+{
+  "annotations": {
+    "changelogDate": "20240403202722"
+  },
+  "fields": [
+    {
+      "fieldName": "searchedDate",
+      "fieldType": "LocalDate"
+    },
+    {
+      "fieldName": "dayOfWeek",
+      "fieldType": "String"
+    }
+  ],
+  "name": "SearchHistory",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "no"
+}

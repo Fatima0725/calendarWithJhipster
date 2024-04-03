@@ -41,6 +41,12 @@ spring:
         size: 20
   thymeleaf:
     mode: HTML
+#MYSQL
+  datasource:
+    url: jdbc:mysql://localhost:3306/examenJhipster?useUnicode=true&characterEncoding=utf8&useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+    username: root
+    password:
+    driver-class-name: com.mysql.cj.jdbc.Driver
 
 server:
   port: 10344
@@ -88,3 +94,5 @@ management:
   health:
     mail:
       enabled: false
+
+
